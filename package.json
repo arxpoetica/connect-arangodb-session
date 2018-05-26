@@ -12,7 +12,7 @@
     "type": "git"
   },
   "dependencies": {
-    "arangojs": "^5.3.0",
+    "arangojs": "^6.2.4",
     "better-console": "^0.2.4",
     "lodash": "^4.17.2",
     "q": "^1.4.1"
